@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ratna
 - 👀 I’m currently a graduate student at KAIST, working on neuroimaging
-- 🌱 I work on projects revolving neuroimaging datasets, such as EEG and fNIRS
+- 🌱 I work on projects revolving 2D neuroimaging datasets, such as EEG and fNIRS
 
 
 <!---
