@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ratna
-- 👀 I’m currently a graduate student at KAIST, working on neuroimaging
+- 👀 I’m currently a graduate student at KAIST, investigating the relation between body movements and the brain using fNIRS
 - 🌱 I work on projects revolving 2D neuroimaging datasets, such as EEG and fNIRS
 
 
