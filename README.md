@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ratna
-- 👀 I’m currently a graduate student, investigating the relation between body movements and the brain using fNIRS
+- 👀 I’m currently a graduate student
 - 🌱 I work on projects revolving non-invasive human neuroimaging datasets, such as EEG and fNIRS
 
 
